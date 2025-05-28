@@ -5,3 +5,7 @@ const countSum = (one, two) => {
 };
 
 countSum(5, 8);
+
+function alertfunc() {
+  alert("Labas rytas!");
+}
