@@ -6,6 +6,14 @@ const countSum = (one, two) => {
 
 countSum(5, 8);
 
+
 function alertfunc() {
   alert("Labas rytas!");
 }
+
+function hello(name) {
+  console.log("Hello, " + name)
+}
+
+hello('Tomas');
+
