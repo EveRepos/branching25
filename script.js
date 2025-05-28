@@ -5,3 +5,10 @@ const countSum = (one, two) => {
 };
 
 countSum(5, 8);
+
+
+function hello(name) {
+  console.log("Hello, " + name)
+}
+
+hello('Tomas');
