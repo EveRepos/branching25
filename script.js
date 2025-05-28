@@ -8,3 +8,7 @@ const countsum = (one, two) => {
 };
 
 countsum(5, 8);
+
+function alertfunc() {
+  alert("Labas rytas!");
+}
